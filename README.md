@@ -1,9 +1,11 @@
 **Boston Housing Price Prediction**
+
 This repository contains a machine learning project that predicts housing prices in Boston using the classic Boston Housing dataset. 
 The project demonstrates various stages of a machine learning workflow including data preprocessing, feature engineering, model training, evaluation, and deployment.
 
 
 **The goal of this project is to predict the median value of owner-occupied homes in Boston suburbs. This project covers:**
+
 Exploratory Data Analysis (EDA)
 Data preprocessing and feature engineering
 Training multiple machine learning models
@@ -11,10 +13,12 @@ Evaluating model performance
 Model deployment
 
 **Dataset**
+
 The dataset used in this project is the Boston Housing dataset, which contains information collected by the U.S Census Service concerning housing in the area of Boston, Massachusetts.
 It has 506 instances and 14 attributes (features).
 
 **Features:**
+
     1. CRIM      per capita crime rate by town
     2. ZN        proportion of residential land zoned for lots over 
                  25,000 sq.ft.
@@ -37,6 +41,7 @@ It has 506 instances and 14 attributes (features).
 
 
 **Installation**
+
 Boston Housing Data ( Available in the Project)
 Install Python
 Install jupyter 
@@ -48,6 +53,7 @@ Deploy using .joblib creation
 
 
 **Modeling**
+
 The project uses various machine learning models including:
 
 1. Linear Regression
@@ -56,13 +62,16 @@ The project uses various machine learning models including:
 
 
 **Evaluation**
+
 Models are evaluated based on:
 
 1. Root Mean Squared Error (RMSE)
 2. Cross Validation Technique
 
 **Contributing**
+
 Contributions are welcome! Please submit a pull request or open an issue to discuss what you would like to change.
 
 **Author**
+
 Alok Dangwal
